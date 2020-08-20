@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.gmail.lucasteixeira.lt74.vroom"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Vroom</name>
+
+  <description>
+      Jogo de corrida para quem estiver intediado
+  </description>
+
+  <author href="https://build.phonegap.com" email="lucasteixeira.lt74@gmail.com">
+      Lucas.
+  </author>
+		<icon src="incon.png" />
+</widget>
